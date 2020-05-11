@@ -1,0 +1,157 @@
+.alpha{
+	margin-right: 2%;
+	margin-top: 2%;
+}
+.alpha nav ul li{
+	display: inline-block;
+	float:right;
+	padding:3px;
+}
+.alpha ul li a{
+	color:#fff;
+	border:2px solid #fff;
+	transition: 0.9s;
+	padding:4px 4px ;
+	text-decoration:none;
+}
+.alpha ul li a:hover{
+	color:#000;
+	border:2px solid #fff;
+	transition: 0.9s;
+	padding:4px 4px ;
+	text-decoration:none;
+	background-color: #fff;
+}
+#p2
+{
+
+	font-family:Comic Sans MS;
+	font-style:italic;
+	font-weight:bold;
+	text-align: right;
+	margin-top: 60%;
+	margin-bottom: 0%;
+	color:#fff;
+	background-color: #000;
+	margin-right: 2%;
+}
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('one.jpg');
+	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: cover;
+  	background-position: center;
+  	margin-right: 0%;
+  	margin-top:0%;
+  	margin-left:0%;
+  	margin-bottom:0%;
+}
+.pus ul li
+{
+	text-decoration: none;
+	display: block;
+	width:55px;
+	height:26px;
+	padding:0px;
+	margin-top:10%;
+}
+.pus ul li a{
+	display:block;
+	text-decoration:none;
+	color:#000;
+	border:2px solid #fff;
+	background-color: #fff;
+	padding:2px 2px ;
+	opacity:0.5;
+}
+.pus ul
+{	float:right;
+	margin:0px;
+	padding:0px 0px;
+	list-style: none;
+}
+.pus ul li ul li
+{
+	display:none;
+}
+.pus ul li:hover ul li {
+	display:block;
+}
+textarea{
+	resize: none;
+	border:none;
+	outline:none;
+	background:none;
+	color:white;
+	font-size: 15px;
+	overflow: hidden;
+	padding-top:0px;
+	padding-bottom:4px;
+	border-bottom:2px solid #f7ff00;
+	margin-left: 50%;
+	padding-left: 5px;
+}
+.content{
+	color:#fff;
+	padding-top: 0%;
+	width:150px;
+	margin-right: 10%;
+	
+}
+.content h2 {
+text-align: center;
+border-bottom:5px solid #f7ff00;
+overflow: none;
+font-size: 40px;
+margin-bottom: 40px;
+padding-bottom: 10px;
+width:300px;
+overflow: hidden;
+}
+.box{
+	width:100%;
+	overflow: hidden;
+	font-size:20px;
+	padding-top:none;
+	padding-bottom:4px;
+	border-bottom:2px solid #f7ff00;
+	margin-left: 50%;
+
+}
+.box input{
+	border:none;
+	outline:none;
+	background:none;
+	color:white;
+	font-size: 12px;
+}
+.btn{
+margin-left: 80%;
+margin-top: 4px;
+background:none;
+color:#fff;
+outline:none;
+border:2px solid #fff;
+cursor: pointer;
+width:100%;
+padding:2px;
+transition: 0.9s;
+margin-top: 15px;
+}
+.btn:hover{
+	background-color: #fff;
+	color:#000;
+}
+.box i{
+	transition: 2s;
+	float:left;
+	font-size:15px;
+	color: #11c1ea;
+}
+.nah i{
+	
+	transition: 2s;
+	font-size:15px;
+	margin-top: 4px;
+	color: #11c1ea;
+}

@@ -1,0 +1,147 @@
+.fod{
+	margin-top: 0.5%;
+}
+.one{
+	margin-top: 5%;
+}
+.fed{
+	margin-right:2%;
+	margin-top: 0%;
+}
+.alpha{
+	margin-right: 2%;
+	margin-top: 2%;
+}
+.alpha nav ul li{
+	display: inline-block;
+	float:right;
+	padding:3px;
+}
+.alpha ul li a{
+	color:#fff;
+	border:2px solid #fff;
+	transition: 0.9s;
+	padding:4px 4px ;
+	text-decoration:none;
+}
+.alpha ul li a:hover{
+	color:#000;
+	border:2px solid #fff;
+	transition: 0.9s;
+	padding:4px 4px ;
+	text-decoration:none;
+	background-color: #fff;
+}
+}
+#p1
+{
+	font-family: Times New Roman;
+	text-transform: uppercase;
+	font-weight:bolder;
+	text-shadow:2px 2px 3px black;
+	border:2px solid;
+	font-size:50px;
+	color:transparent;
+	margin:5%;
+}
+#p2
+{
+
+	font-family:Comic Sans MS;
+	font-style:italic;
+	font-weight:bold;
+	text-align: right;
+	margin-top: 60%;
+	padding-right: 2%;
+	margin-bottom: 0%;
+	color:#fff;
+	background-color: #000;
+}
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('one.jpg');
+	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: cover;
+  	background-position: center;
+  	margin-right: 0%;
+  	margin-top:0%;
+  	margin-left:0%;
+  	margin-bottom:0%;
+}
+.one{
+	background-color: transparent;
+	color:#fff; 
+}
+.pop{
+	margin-top: 30%;
+}
+.pop ul li{
+	display:inline-block;
+}
+.pop ul li a{
+	color:#fff;
+	border:2px solid #fff;
+	transition: 0.9s;
+	padding:4px 4px ;
+	text-decoration:none;
+}
+.pop ul li a:hover{
+	background-color: #fff;
+	color:#000;
+	text-decoration:none;
+}
+.fod ul li{
+	display:inline-block;
+	float:right;
+}
+.pus{
+	margin-right: 2%;
+}
+.pus ul li
+{
+	text-decoration: none;
+	display: block;
+	width:55px;
+	height:26px;
+	padding:0px;
+	margin-top:10%;
+}
+.pus ul li a{
+	display:block;
+	text-decoration:none;
+	color:#000;
+	border:2px solid #fff;
+	background-color: #fff;
+	padding:2px 2px ;
+	opacity:0.5;
+}
+.pus ul
+{	float:right;
+	margin:0px;
+	padding:0px 0px;
+	list-style: none;
+}
+.pus ul li ul li
+{
+	display:none;
+}
+.pus ul li:hover ul li {
+	display:block;
+}
+.fed{
+	
+	display: inline-block;
+	border:2px solid #fff;
+	background-color:#fff;
+	color:#000;
+	text-decoration:none;
+}
+.fed a{
+	text-decoration:none;
+	border:2px solid #fff;
+	background-color:#fff;
+	color:#000;
+}
+#quote{
+	margin-top: 15%;
+}
