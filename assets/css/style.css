@@ -1564,8 +1564,90 @@ section {
 }
 
 #footer .credits {
-  padding-top: 10px;
+  padding-top:10px;
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+.nonosquareP{
+  margin-top: 3%;
+}
+.nonosquareP .hien{
+  width: 100%;
+  background: whitesmoke;
+}
+.nonosquareP .hien i{
+  font-size: 20px;
+  background-color: #ffc451;
+  color: #151515;
+  float: left;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  transition: all 0.3s ease-in-out;
+  margin-left: 5px;
+}
+.nonosquareP .hien h4{
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #151515;
+}
+.nonosquareP .hien p{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 70px;
+  font-size: 18px;
+  color: #484848;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.nonosquareQ{
+  margin-top: -8%;
+}
+
+
+.nonosquareQ .hien{
+  width: 100%;
+  background: whitesmoke;
+
+}
+.nonosquareQ .hien i{
+  font-size: 20px;
+  background-color: #ffc451;
+  color: #151515;
+  float: left;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  transition: all 0.3s ease-in-out;
+  margin-left: 5px;
+
+}
+.nonosquareQ .hien h4{
+  padding-left: 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #151515;
+
+}
+.nonosquareQ .hien p{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 70px;
+  font-size: 18px;
+  color: #484848;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
 }
